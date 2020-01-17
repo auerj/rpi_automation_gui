@@ -13,29 +13,11 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
-  <widget class="QLCDNumber" name="current_temp">
-   <property name="geometry">
-    <rect>
-     <x>10</x>
-     <y>20</y>
-     <width>130</width>
-     <height>50</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>20</pointsize>
-    </font>
-   </property>
-   <property name="value" stdset="0">
-    <double>22.199999999999999</double>
-   </property>
-  </widget>
   <widget class="QLCDNumber" name="target_temp">
    <property name="geometry">
     <rect>
      <x>310</x>
-     <y>120</y>
+     <y>130</y>
      <width>130</width>
      <height>50</height>
     </rect>
@@ -53,7 +35,7 @@
    <property name="geometry">
     <rect>
      <x>330</x>
-     <y>20</y>
+     <y>30</y>
      <width>90</width>
      <height>90</height>
     </rect>
@@ -71,7 +53,7 @@
    <property name="geometry">
     <rect>
      <x>330</x>
-     <y>180</y>
+     <y>190</y>
      <width>90</width>
      <height>90</height>
     </rect>
